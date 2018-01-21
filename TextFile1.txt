@@ -5,3 +5,5 @@ changes #4
 second branch
 changes in first branch
 second commit for first branch
+
+changes in first branch
